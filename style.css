@@ -55,3 +55,36 @@ nav{
     color: rgba(0, 0, 0, 0.621);
 }
 
+.comment-box{
+    margin: 0;
+    margin-left: 65%;
+    width: 20%;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: right;
+    
+}
+
+.comment-box form {
+    padding: 10px;
+
+}
+
+.comment-box form input {
+    border: none;
+    align-self: flex-end;
+
+}
+
+.comment-box form button{
+    border: none;
+    background: none;
+    
+    
+}
+
+.comment-box form img{
+    height: 20px;
+    
+}
