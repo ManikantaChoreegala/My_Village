@@ -54,6 +54,11 @@ nav{
     color: rgba(0, 0, 0, 0.621);
 }
 
+.nav-links a {
+   text-decoration: none;
+   
+}
+
 .comment-box{
     margin: 0;
     margin-left: 65%;
